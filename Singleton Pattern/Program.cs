@@ -12,6 +12,8 @@ namespace Singleton_Pattern
             Counter obj2 =Counter.GetInstance();
             obj2.AddOne();
             Console.WriteLine("counter value is : {0}", obj1.count);
+
+            
         }
     }
 }
