@@ -1,0 +1,32 @@
+E:\Design Patterns with C#\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.exe
+E:\Design Patterns with C#\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.deps.json
+E:\Design Patterns with C#\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.runtimeconfig.json
+E:\Design Patterns with C#\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.runtimeconfig.dev.json
+E:\Design Patterns with C#\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.dll
+E:\Design Patterns with C#\Singleton Pattern\bin\Debug\net5.0\ref\Singleton Pattern.dll
+E:\Design Patterns with C#\Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.pdb
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.csprojAssemblyReference.cache
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.AssemblyInfoInputs.cache
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.AssemblyInfo.cs
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.csproj.CoreCompileInputs.cache
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.dll
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\ref\Singleton Pattern.dll
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.pdb
+E:\Design Patterns with C#\Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.genruntimeconfig.cache
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.csprojAssemblyReference.cache
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.AssemblyInfoInputs.cache
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.AssemblyInfo.cs
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.csproj.CoreCompileInputs.cache
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.dll
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\ref\Singleton Pattern.dll
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.pdb
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.exe
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.deps.json
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.runtimeconfig.json
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.runtimeconfig.dev.json
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.dll
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\bin\Debug\net5.0\ref\Singleton Pattern.dll
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\bin\Debug\net5.0\Singleton Pattern.pdb
+E:\Design Patterns with C#\Thread Safe Singleton Pattern\obj\Debug\net5.0\Singleton Pattern.genruntimeconfig.cache
