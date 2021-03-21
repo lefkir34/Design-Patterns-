@@ -1,4 +1,4 @@
-using System.Threading;
+
 namespace Singleton_Pattern
 {
     public class Counter
@@ -18,7 +18,7 @@ namespace Singleton_Pattern
             if(Instance == null){
             lock (LockObj)
             {
-                 Thread.Sleep(2000);
+               
                   if (Instance == null){ return new Counter();}
             }
           }
